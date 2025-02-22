@@ -19,3 +19,5 @@ if genero in peliculas:
     print(f"Te recomiendo ver: {recomendacion}")
 else:
     print("Género no válido. Por favor, elige entre: acción, comedia, drama, ciencia ficción, terror.")
+
+# Segundo commit
