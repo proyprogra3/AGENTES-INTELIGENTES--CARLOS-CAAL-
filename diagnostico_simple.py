@@ -15,3 +15,5 @@ sintomas = input().lower().split(',')
 # Diagnóstico
 resultado = diagnostico(sintomas)
 print(f"Diagnóstico: {resultado}")
+
+# Segundo commit
