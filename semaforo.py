@@ -15,3 +15,5 @@ def semaforo():
             time.sleep(tiempo_verde if estado == "verde" else 3)
 
 semaforo()
+
+# Segundo commit
